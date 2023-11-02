@@ -36,7 +36,7 @@ if(errorMail){
   alert('Please Enter Correct Email')
 }
 else if(errorPass){
-  alert('Password should be greater than 8')
+  alert('Password should be greater than 8 Characters')
 
 }
 
